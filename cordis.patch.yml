@@ -1,0 +1,3 @@
+- insert:
+    - id: film-calculator
+      name: '@local/film-calculator'
